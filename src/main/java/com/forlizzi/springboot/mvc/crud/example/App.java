@@ -9,10 +9,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @SpringBootApplication
 @EnableJpaRepositories("com.forlizzi.springboot.mvc.crud.example")
 @ComponentScan("com.forlizzi.springboot.mvc.crud.example")
-public class SpringBootMvcCrudExampleApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMvcCrudExampleApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }
