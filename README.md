@@ -1,6 +1,6 @@
 ## About The App
 
-[Promineo Tech Bootcamp]("https://www.promineotech.com/") instructed Spring Boot with projects utilizing JDBC API connectivity. This succinct [tutorial](https://javatechonline.com/spring-boot-mvc-crud-example/) instruction utilizes JPA; I recommend for its: 
+[Promineo Tech Bootcamp](https://www.promineotech.com/) instructed Spring Boot with projects utilizing JDBC API connectivity. This succinct [tutorial](https://javatechonline.com/spring-boot-mvc-crud-example/) instruction utilizes JPA; I recommend for its: 
 * explanation of key concepts, 
 * visual project overview (screenshot of the final product and project structure map), 
 * step by step instruction without code then with, and
