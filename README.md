@@ -10,7 +10,6 @@ Note: I added a main App class to start Spring, not part of the tutorial.</br>
 Another Note: Despite the clear instruction I missed a few things and needed to debug, a frustrating and ultimately satisfying learning experience.
 
 ## TODOs:
-* Connect to localhost from the app
 * Add responsiveness (see non-responsive bootstrap below)
 * Swap Bootstrap for Material Design or something else? Message me with suggestions!
 
