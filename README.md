@@ -9,9 +9,13 @@
 Note: I added a main App class to start Spring, not part of the tutorial.</br>
 Another Note: Despite the clear instruction I missed a few things and needed to debug, a frustrating and ultimately satisfying learning experience.
 
+Tailwind learning via [Scrimba]("https://scrimba.com/learn/tailwind"), instructor [Victor Gonzalez]("https://www.youtube.com/c/CodersTape/videos").
+
+Integration of this Spring Boot app with Tailwind thanks to [Eric Cabrel's]("https://github.com/tericcabrel") [tutorial]("https://blog.tericcabrel.com/web-application-springboot-thymeleaf-tailwindcss/").
+
 ## TODOs:
 * Add responsiveness (see non-responsive bootstrap below)
-* ~~Swap Bootstrap for Material Design or something else? Message me with suggestions!~~ Tailwind!
+* ~~Swap Bootstrap for Material Design or something else? Message me with suggestions!~~ Tailwind in progress 🚧
 
 <img width="320" src="./assets/not-responsive.png" alt="Non-responsive bootstrap">
 
