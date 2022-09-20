@@ -11,7 +11,7 @@ Another Note: Despite the clear instruction I missed a few things and needed to 
 
 ## TODOs:
 * Add responsiveness (see non-responsive bootstrap below)
-* Swap Bootstrap for Material Design or something else? Message me with suggestions!
+* ~~Swap Bootstrap for Material Design or something else? Message me with suggestions!~~ Tailwind!
 
 <img width="320" src="./assets/not-responsive.png" alt="Non-responsive bootstrap">
 
