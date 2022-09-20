@@ -4,14 +4,14 @@
 * explanation of key concepts, 
 * visual project overview (screenshot of the final product and project structure map), 
 * step by step instruction without code then with, and
-* front end integration via [Thymeleaf]("https://www.thymeleaf.org/"), a popular template engine.
+* front end integration via [Thymeleaf](https://www.thymeleaf.org/), a popular template engine.
 
 Note: I added a main App class to start Spring, not part of the tutorial.</br>
 Another Note: Despite the clear instruction I missed a few things and needed to debug, a frustrating and ultimately satisfying learning experience.
 
-Tailwind learning via [Scrimba]("https://scrimba.com/learn/tailwind"), instructor [Victor Gonzalez]("https://www.youtube.com/c/CodersTape/videos").
+Tailwind learning via [Scrimba](https://scrimba.com/learn/tailwind), instructor [Victor Gonzalez](https://www.youtube.com/c/CodersTape/videos).
 
-Integration of this Spring Boot app with Tailwind thanks to [Eric Cabrel's]("https://github.com/tericcabrel") [tutorial]("https://blog.tericcabrel.com/web-application-springboot-thymeleaf-tailwindcss/").
+Integration of this Spring Boot app with Tailwind thanks to [Eric Cabrel's](https://github.com/tericcabrel) [tutorial](https://blog.tericcabrel.com/web-application-springboot-thymeleaf-tailwindcss/).
 
 ## TODOs:
 * Add responsiveness (see non-responsive bootstrap below)
